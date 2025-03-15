@@ -1,0 +1,18 @@
+
+# Ignore all Jupyter Notebook files
+*.ipynb
+
+# Ignore cache and temp files
+__pycache__/
+*.tmp
+*.log
+
+# Ignore cache and temp files
+__pycache__/
+*.tmp
+*.log
+
+# Ignore cache and temp files
+__pycache__/
+*.tmp
+*.log
